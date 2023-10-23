@@ -5,9 +5,9 @@
 
 - 🌱 We are currently learning **Google IT Support, JS and Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://whools.web.app/#/](https://whools.web.app/#/)
+- 👨‍💻 All of my projects are available at [www.whools.xyz](www.whools.xyz)
 
-- 📝 I regularly write articles on [https://whools.web.app/#/TechHub](https://whools.web.app/#/TechHub)
+- 📝 I regularly write articles on [www.whools.xyz/TechHub](www.whools.xyz/TechHub)
 
 - 💬Ask us about **Flutter, Java, Model 3D, Designer and CyberSecurity**
 

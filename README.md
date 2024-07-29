@@ -63,6 +63,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/byWhools/byWhools/output/snake.svg" alt="Snake animation" />
-
-###
